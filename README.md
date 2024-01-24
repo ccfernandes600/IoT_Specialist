@@ -1,4 +1,4 @@
-# Circuito de Sensor de Temperatura ligado à Entrada Analógica com LED e Arduino - [Sensor TMP36, LED e Resistor]
+# Circuito de Sensor de Temperatura ligado à Entrada Analógica A0 com LED na  Saida Digital D7, motor CC na Saída Digital D9, Buzzer na Saída Digital D9  e Arduino 
 Projeto de Circuitos Eletrônicos - IoT
 Neste projeto, simulando uma estufa de hortaliças, deve ser desenvolvido no
 simulador TinkerCad (https://www.tinkercad.com/) um circuito eletrônico envolvendo
